@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Posts on Mi nuevo sitio Marius</title>
+    <link>http://example.org/posts/</link>
+    <description>Recent content in Posts on Mi nuevo sitio Marius</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>es</language>
+    <lastBuildDate>Wed, 29 Mar 2023 16:53:35 -0400</lastBuildDate>
+    
+	<atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Posts Bienvenidos a Hugo</title>
+      <link>http://example.org/posts/posts-bienvenidos-a-hugo/</link>
+      <pubDate>Wed, 29 Mar 2023 16:53:35 -0400</pubDate>
+      
+      <guid>http://example.org/posts/posts-bienvenidos-a-hugo/</guid>
+      <description>Bienvenidos manga de &amp;hellip;</description>
+    </item>
+    
+    <item>
+      <title>Primer Post</title>
+      <link>http://example.org/posts/primer-post/</link>
+      <pubDate>Wed, 29 Mar 2023 16:49:27 -0400</pubDate>
+      
+      <guid>http://example.org/posts/primer-post/</guid>
+      <description>Testing</description>
+    </item>
+    
+  </channel>
+</rss>
