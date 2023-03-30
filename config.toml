@@ -1,4 +1,4 @@
-baseURL = "http://example.org/"
+baseURL = "https://mariuspy.github.io/mi-sitiob/"
 languageCode = "es"
 title = "Mi nuevo sitio Marius"
 theme = "tale"
