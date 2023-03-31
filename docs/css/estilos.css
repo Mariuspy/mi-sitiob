@@ -10,3 +10,22 @@ body {
 .nav a {
   color: #0768ce;
 }
+
+.indexhero {
+    margin-top: 1rem;
+    background-color: #31488d;
+    color: #fff;
+    text-align: center;
+    padding: 3.5rem 3 rem;
+}
+
+.indexhero h1 {
+    color: #fff;
+    font-size: 3rem;
+    margin: 1rem 0;
+}
+
+.indexhero p{
+    font-size: 1.3rem;
+    margin-bottom: 1rem;
+}
